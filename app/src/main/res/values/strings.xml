@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">GoodNews</string>
+
+    <string-array name="news_tab">
+        <item>要闻</item>
+        <item>视频</item>
+        <item>音乐</item>
+        <item>电影</item>
+        <item>体育</item>
+        <item>娱乐</item>
+        <item>时事</item>
+        <item>经济</item>
+        <item>军事</item>
+        <item>星座</item>
+        <item>本地</item>
+        <item>时尚</item>
+        <item>国际</item>
+        <item>股票</item>
+        <item>汽车</item>
+        <item>美容</item>
+        <item>职场</item>
+        <item>电视剧</item>
+        <item>旅游</item>
+        <item>健康</item>
+        <item>教育</item>
+        <item>综艺</item>
+        <item>历史</item>
+        <item>读书</item>
+    </string-array>
+</resources>
